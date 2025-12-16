@@ -1,3 +1,23 @@
-.dist
-.build
-QuanReminder.spec
+# Build folders
+dist/
+build/
+
+# PyInstaller
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
